@@ -1,5 +1,5 @@
 # ⚙ Button
-Button library for ESP32
+Button library for ESP32 created to build a simple object related to a push button. This library avoid to know how to create the logic to get the button working. Instead, it allows to define a simple code to set the button code.
 
 ## ⚡ Install
 
